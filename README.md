@@ -8,6 +8,8 @@ This project is the frontend application for the Short Let project. This project
 
 This application was built as a group project in less then 3 weeks.
 
+![image](https://user-images.githubusercontent.com/73438276/198051731-4a452233-01e3-4394-88d8-9dded08c1ca2.png)
+
 
 ## Kanban board
 
